@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+[data-default-color="white"] .whitebody{
+    background-color: white;
+}
+[data-default-color="black"] .whitebody{
+    background-color: black;
+}
+table{
+    width: 100%;
+}
+table tr td{
+    width: 33.33%;
+}
+.color{
+    color: #ffc400;
+}
+ul{
+    lit-style-type: none;
+}
+li {
+    display: inline-block;
+    text-align: center;
+    padding-left: 8%;
+    font-size: 25px;
+}
+a{
+   color: #ffc400;
+   text-decoration: none;
+   font-family: 'Lobster', cursive;
+}
+.ccolor{
+    padding-left: 25%;
+}
+.blackd{
+    width: 30px;
+
+    color: black;
+    border: 1px solid #ffc400;
+}
+.whited{
+    width: 30px;
+
+    color: white;
+    border: 1px solid #ffc400;
+}
+
+.loodd{
+    margin-left: 15%;
+    margin-right: 15%;
+    border-top: 1px solid #ffc400;
+
+}
+.lood{
+    margin-top: 2%;
+    padding-top: 48%;
+    padding-bottom: 5%;
+    padding-left: 40%;
+
+    border: 2px solid #ffc400;
+}
+.lb{
+    background-image: url('per0.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.o1b{
+    background-image: url('per2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position; center;
+}
+.o2b{
+    background-image: url('per4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position; center;
+}
+.db{
+    background-image: url('per6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position; center;
+}
+.lood li{
+
+    border: 2px solid #ffc400;
+    border-radius: 70px;
+    text-align: center;
+    padding: 1% 2%;
+    text-transform: upperCase;
+    color: #ffc400;
+
+
+}
+.ex{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 11%;
+
+}
+.ex h1{
+    font-size: 80px;
+    font-family: 'Parisienne', cursive;
+    color: #ffc400;
+    text-align: center;
+}
+.ex p{
+    color: #ffc400;
+    font-size: 33px;
+}
+.ex img{
+    float: right;
+    padding-top 3%;
+}
+section{
+    padding-top: 10%;
+
+}
+section img{
+    padding-left: 35%;
+}
+section  ul li{
+    margin-left: 2%;
+    margin-top: 6%;
+}
+section ul li img{
+    border: 1px solid #ffc400;
+    float: center;
+    margin-left: 5%;
+    padding: 0px;
+    border-radius: 10px;
+}
+section ul li p{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Amatic SC', cursive;
+}
+section div a{
+    font-size: 30px;
+    text-decoration: none;
+    padding-left: 46%;
+    padding-top: 15%;
+}
+.noactive{
+    opacity: 0.5;
+}
+.active{
+    opacity: 1;
+}
+
+
+
+
+
